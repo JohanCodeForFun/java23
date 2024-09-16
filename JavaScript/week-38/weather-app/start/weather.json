@@ -1,0 +1,162 @@
+{
+  "weather-times": [
+    "morning-midday-evening"
+  ],
+  "weather_data": [
+    {
+      "date": "2024-09-01",
+      "temperatures": "15°C-20°C-18°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-02",
+      "temperatures": "16°C-21°C-19°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-03",
+      "temperatures": "14°C-19°C-17°C",
+      "humidity": "Low"
+    },
+    {
+      "date": "2024-09-04",
+      "temperatures": "13°C-18°C-16°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-05",
+      "temperatures": "15°C-20°C-18°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-06",
+      "temperatures": "14°C-19°C-17°C",
+      "humidity": "Low"
+    },
+    {
+      "date": "2024-09-07",
+      "temperatures": "13°C-18°C-16°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-08",
+      "temperatures": "15°C-20°C-18°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-09",
+      "temperatures": "16°C-21°C-19°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-09",
+      "temperatures": "14°C-19°C-17°C",
+      "humidity": "Low"
+    },
+    {
+      "date": "2024-09-11",
+      "temperatures": "13°C-18°C-16°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-12",
+      "temperatures": "15°C-20°C-18°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-13",
+      "temperatures": "16°C-21°C-19°C",
+      "humidity": "Low"
+    },
+    {
+      "date": "2024-09-14",
+      "temperatures": "14°C-19°C-17°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-15",
+      "temperatures": "13°C-18°C-16°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-16",
+      "temperatures": "15°C-20°C-18°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-17",
+      "temperatures": "16°C-21°C-19°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-18",
+      "temperatures": "14°C-19°C-17°C",
+      "humidity": "Low"
+    },
+    {
+      "date": "2024-09-19",
+      "temperatures": "13°C-18°C-16°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-20",
+      "temperatures": "15°C-20°C-18°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-21",
+      "temperatures": "16°C-21°C-19°C",
+      "humidity": "Low"
+    },
+    {
+      "date": "2024-09-22",
+      "temperatures": "14°C-19°C-17°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-23",
+      "temperatures": "13°C-18°C-16°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-24",
+      "temperatures": "15°C-20°C-18°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-25",
+      "temperatures": "16°C-21°C-19°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-26",
+      "temperatures": "14°C-19°C-17°C",
+      "humidity": "Low"
+    },
+    {
+      "date": "2024-09-27",
+      "temperatures": "13°C-18°C-16°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-28",
+      "temperatures": "15°C-20°C-18°C",
+      "humidity": "High"
+    },
+    {
+      "date": "2024-09-29",
+      "temperatures": "16°C-21°C-19°C",
+      "humidity": "Low"
+    },
+    {
+      "date": "2024-09-30",
+      "temperatures": "14°C-19°C-17°C",
+      "humidity": "Moderate"
+    },
+    {
+      "date": "2024-09-31",
+      "temperatures": "13°C-18°C-16°C",
+      "humidity": "High"
+    }
+  ]
+}
